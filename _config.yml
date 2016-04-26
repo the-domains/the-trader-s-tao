@@ -1,0 +1,28 @@
+name: "The Trader's Tao"
+favicon: null
+layout_spectrum: 0.31730615231208503
+typography_spectrum: 0.7907735083717853
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6971479912754148
+  lightness: 0.7158362080808729
+  saturation: 0.7071530679240823
+  rhythmicContrast: 0.8961873897351325
+purpose: []
