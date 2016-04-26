@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Trader's Tao]]></title>
+        <description><![CDATA[The Trader's Tao]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 26 Apr 2016 14:53:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4333eb93-a73a-40ec-9db6-ee857f512737.png">]]></description>
+            <link>undefinednow-is-the-time-for-all-good-men-to-come-to-the-aid-of-their/index.html</link>
+            <guid isPermaLink="false">1ec028a0-5f76-4bdc-9ebf-e68eb881ae17</guid>
+            <pubDate>Tue, 26 Apr 2016 14:53:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
